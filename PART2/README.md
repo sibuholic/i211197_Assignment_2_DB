@@ -1,0 +1,2 @@
+# i211197_Assignment_2_DB 
+There is a small airport for which a database system is implemented. All the information is stored in hangar. Air planes are of many types.Air plane is serviced by emloyees and the service history is maintained by employees. Air planes are owned by an owner who can be a person or a corporation along with purchase date of the plane is also stored. Each plane is authorized to a pilot.
